@@ -1,1 +1,2 @@
 # Data-Integration
+In this project, we will explore how to integrate multi-omics data, specifically genomics, transcriptomics, and proteomics, using R. The goal is to identify key biological insights that can be derived from the combined analysis of these diverse data types. This integration is crucial for a comprehensive understanding of biological systems and can lead to significant discoveries in fields such as personalized medicine and systems biology.
